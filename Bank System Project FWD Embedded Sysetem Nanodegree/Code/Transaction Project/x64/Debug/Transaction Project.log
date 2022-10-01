@@ -1,0 +1,7 @@
+﻿  server.c
+  terminal.c
+C:\Users\Kimo Store\Desktop\c Programming\Transaction Project\terminal.c(8,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\Kimo Store\Desktop\c Programming\Transaction Project\terminal.c(33,11): warning C4013: 'isdigit' undefined; assuming extern returning int
+  Generating Code...
+C:\Users\Kimo Store\Desktop\c Programming\Transaction Project\terminal.c(94): warning C4715: 'isValidCardPAN': not all control paths return a value
+  Transaction Project.vcxproj -> C:\Users\Kimo Store\Desktop\c Programming\Transaction Project\x64\Debug\Transaction Project.exe
